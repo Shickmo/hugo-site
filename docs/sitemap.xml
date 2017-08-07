@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shickmo.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/post/first-post/</loc>
+    <lastmod>2017-08-06T23:22:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/shortcodes/static/</loc>
+    <lastmod>2017-07-23T19:06:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/pages/next-prev-page/</loc>
+    <lastmod>2017-07-04T18:16:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/site/analytics/</loc>
+    <lastmod>2017-07-01T13:57:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/example-configs/</loc>
+    <lastmod>2017-06-30T23:49:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/</loc>
+    <lastmod>2017-06-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/site/social-icons/</loc>
+    <lastmod>2017-06-26T23:58:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/site/appearance/</loc>
+    <lastmod>2017-06-26T23:58:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/tag-list/</loc>
+    <lastmod>2017-06-26T23:57:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/search/</loc>
+    <lastmod>2017-06-26T23:56:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/recent-posts/</loc>
+    <lastmod>2017-06-26T23:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/patreon-banner/</loc>
+    <lastmod>2017-06-26T23:55:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/events/</loc>
+    <lastmod>2017-06-26T23:55:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/sidebar/category-list/</loc>
+    <lastmod>2017-06-26T23:54:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/shortcodes/members/</loc>
+    <lastmod>2017-06-26T23:53:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/shortcodes/handwriting/</loc>
+    <lastmod>2017-06-26T23:52:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/pages/summaries/</loc>
+    <lastmod>2017-06-26T23:52:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/pages/custom-list-pages/</loc>
+    <lastmod>2017-06-26T23:51:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/pages/comments/</loc>
+    <lastmod>2017-06-26T23:50:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/docs/pages/authorbox/</loc>
+    <lastmod>2017-06-26T23:49:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/categories/documentation/</loc>
+    <lastmod>2017-07-23T19:06:44-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/post/</loc>
+    <lastmod>2017-08-06T23:22:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.io/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,5 +1,6 @@
 baseurl = "https://shickmo.io/"
 themesDir = "themes"
+publishDir = "docs"
 title = "shickmo.io"
 author = "Michael Bryant"
 paginate = 3
