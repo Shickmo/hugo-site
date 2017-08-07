@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shickmo.io</title>
-    <link>https://shickmo.io/</link>
+    <link>https://shickmo.github.io/hugo-site/</link>
     <description>Recent content on shickmo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shickmo.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shickmo.github.io/hugo-site/" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://shickmo.io/post/first-post/</link>
+      <link>https://shickmo.github.io/hugo-site/post/first-post/</link>
       <pubDate>Sun, 06 Aug 2017 23:22:22 -0400</pubDate>
       
-      <guid>https://shickmo.io/post/first-post/</guid>
+      <guid>https://shickmo.github.io/hugo-site/post/first-post/</guid>
       <description>Hello! Welcome to my new blog! Please come back another time when I&amp;rsquo;ve written something worth you reading.
 Thanks! :)</description>
     </item>
@@ -23,10 +23,10 @@ Thanks! :)</description>
     
     <item>
       <title>Link To Static Files</title>
-      <link>https://shickmo.io/docs/shortcodes/static/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/shortcodes/static/</link>
       <pubDate>Sun, 23 Jul 2017 19:06:44 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/shortcodes/static/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/shortcodes/static/</guid>
       <description>(Examples use a file at /static/path/to/image.jpg)
 There&amp;rsquo;s a limitation with the way links are created in markdown. In order to link to static files in content files, we need to either:
  Write a path relative to the current directory, with ../ and the like, so a file at content/section/subsection/page.md would need ../../../path/to/image.jpg
@@ -38,10 +38,10 @@ There&amp;rsquo;s a limitation with the way links are created in markdown. In or
     
     <item>
       <title>Page Navigation</title>
-      <link>https://shickmo.io/docs/pages/next-prev-page/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/pages/next-prev-page/</link>
       <pubDate>Tue, 04 Jul 2017 18:16:34 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/pages/next-prev-page/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/pages/next-prev-page/</guid>
       <description>BluestNight supports using the Hugo built-in NextInSection and PrevInSection [page variables] to provide &amp;ldquo;next&amp;rdquo; and &amp;ldquo;previous&amp;rdquo; links to the next and previous page in the same section. On its own, this works great for linking a reader to next oldest or newest post from the one they have just finished reading.
 Sometimes you want a specific order to your pages, though, and that&amp;rsquo;s not the one that Hugo gives you.</description>
     </item>
@@ -50,10 +50,10 @@ Sometimes you want a specific order to your pages, though, and that&amp;rsquo;s 
     
     <item>
       <title>Analytics</title>
-      <link>https://shickmo.io/docs/site/analytics/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/site/analytics/</link>
       <pubDate>Sat, 01 Jul 2017 13:57:18 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/site/analytics/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/site/analytics/</guid>
       <description>&lt;p&gt;BluestNight comes with support for &lt;a href=&#34;https://piwik.org/&#34;&gt;Piwik&lt;/a&gt; as an site analytics provider. This requires having a Piwik instance hosted somewhere, either &lt;a href=&#34;https://piwik.org/download/&#34;&gt;self-hosted&lt;/a&gt; or &lt;a href=&#34;https://www.innocraft.cloud/&#34;&gt;hosted by Innocraft&lt;/a&gt;. The theme uses the &lt;a href=&#34;https://developer.piwik.org/guides/tracking-javascript-guide&#34;&gt;JavaScript tracking client&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -63,10 +63,10 @@ Sometimes you want a specific order to your pages, though, and that&amp;rsquo;s 
     
     <item>
       <title>Example Configs</title>
-      <link>https://shickmo.io/docs/example-configs/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/example-configs/</link>
       <pubDate>Fri, 30 Jun 2017 23:49:34 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/example-configs/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/example-configs/</guid>
       <description>To help you set up your site with BluestNight, you can download a template config.toml. If you use a server with Nginx, you can also download a template configuration file to place in /etc/nginx/conf.d/.
 If you have any experience writing configuration files for Apache servers or .htaccess files, please contribute to this issue on GitLab.</description>
     </item>
@@ -75,10 +75,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Social Icons</title>
-      <link>https://shickmo.io/docs/site/social-icons/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/site/social-icons/</link>
       <pubDate>Mon, 26 Jun 2017 23:58:50 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/site/social-icons/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/site/social-icons/</guid>
       <description>&lt;p&gt;Social icons are an easy way to link viewers of your site to other parts of your online presence, such as to your Facebook, Twitter, LinkedIn, GitHub, and more. The complete list is below.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -88,10 +88,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Appearance</title>
-      <link>https://shickmo.io/docs/site/appearance/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/site/appearance/</link>
       <pubDate>Mon, 26 Jun 2017 23:58:18 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/site/appearance/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/site/appearance/</guid>
       <description>Custom Background Add the following to your site&amp;rsquo;s config.toml file:
 [Params.background] src = &amp;quot;images/background_lg.png&amp;quot; #medium_src = &amp;quot;images/background_med.png&amp;quot; #small_src = &amp;quot;images/background_sm.png&amp;quot; fit_width = true tile = false   Change src to the relative path from the site&amp;rsquo;s baseURL where the background image can be found. In the above example, the file would be found at {site root}/static/images/background.png. Optionally set medium_src and small_src to smaller images to use on screens that are at most 1024px and 640px, respectively.</description>
     </item>
@@ -100,10 +100,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Tag List</title>
-      <link>https://shickmo.io/docs/sidebar/tag-list/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/tag-list/</link>
       <pubDate>Mon, 26 Jun 2017 23:57:39 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/tag-list/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/tag-list/</guid>
       <description>&lt;p&gt;Show a cloud of the tags you&amp;rsquo;ve used on the site in your sidebar.&lt;/p&gt;
 
 &lt;p&gt;This widget currently shows all of the tags used on the website, in order of how often they are used (most common listed first, etc.) You can optionally enable showing how many times the tag has been used.&lt;/p&gt;
@@ -115,10 +115,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Search</title>
-      <link>https://shickmo.io/docs/sidebar/search/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/search/</link>
       <pubDate>Mon, 26 Jun 2017 23:56:58 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/search/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/search/</guid>
       <description>&lt;p&gt;BluestNight offers client-side searching powered by &lt;a href=&#34;https://lunrjs.com&#34;&gt;Lunr.js&lt;/a&gt;. This searching is powered by a JSON index of your site&amp;rsquo;s content pages - this does not include any list pages, even ones &lt;a href=&#34;pages/customize-list-pages&#34;&gt;customized using &lt;code&gt;_index.md&lt;/code&gt;&lt;/a&gt;. Results are displayed as you type, allowing users to quickly find what they are looking for.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -128,10 +128,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Recent Posts</title>
-      <link>https://shickmo.io/docs/sidebar/recent-posts/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/recent-posts/</link>
       <pubDate>Mon, 26 Jun 2017 23:56:25 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/recent-posts/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/recent-posts/</guid>
       <description>&lt;p&gt;Display your most recent posts in the sidebar!&lt;/p&gt;
 
 &lt;p&gt;The recent article sidebar widget displays the ten most recent pages under the &lt;code&gt;post&lt;/code&gt; &lt;a href=&#34;http://gohugo.io/content/sections/&#34;&gt;section&lt;/a&gt;.&lt;/p&gt;
@@ -143,10 +143,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Patreon Banner</title>
-      <link>https://shickmo.io/docs/sidebar/patreon-banner/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/patreon-banner/</link>
       <pubDate>Mon, 26 Jun 2017 23:55:31 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/patreon-banner/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/patreon-banner/</guid>
       <description>&lt;p&gt;Have a Patreon account? Add a Patreon banner to the sidebar of your site that links to it!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -156,10 +156,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Events</title>
-      <link>https://shickmo.io/docs/sidebar/events/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/events/</link>
       <pubDate>Mon, 26 Jun 2017 23:55:07 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/events/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/events/</guid>
       <description>&lt;p&gt;You have a list of events you want to share with your reader base - why not display them on your site?&lt;/p&gt;
 
 &lt;p&gt;BluestNight provides both a sidebar widget to display the 5 earliest occurring events listed and a template for a &lt;code&gt;.ics&lt;/code&gt; calendar file that readers can subscribe to.&lt;/p&gt;
@@ -171,10 +171,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Category List</title>
-      <link>https://shickmo.io/docs/sidebar/category-list/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/sidebar/category-list/</link>
       <pubDate>Mon, 26 Jun 2017 23:54:30 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/sidebar/category-list/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/sidebar/category-list/</guid>
       <description>&lt;p&gt;Add a list of your five most common categories to the sidebar.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -184,10 +184,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Members</title>
-      <link>https://shickmo.io/docs/shortcodes/members/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/shortcodes/members/</link>
       <pubDate>Mon, 26 Jun 2017 23:53:44 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/shortcodes/members/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/shortcodes/members/</guid>
       <description>&lt;p&gt;Looking to put together a nice Members page for your site, but don&amp;rsquo;t want to write a bunch of custom HTML?&lt;/p&gt;
 
 &lt;p&gt;Just use the &lt;code&gt;
@@ -213,10 +213,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Handwriting Shortcode</title>
-      <link>https://shickmo.io/docs/shortcodes/handwriting/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/shortcodes/handwriting/</link>
       <pubDate>Mon, 26 Jun 2017 23:52:34 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/shortcodes/handwriting/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/shortcodes/handwriting/</guid>
       <description>&lt;p&gt;Sometimes (sans-)serif fonts just don&amp;rsquo;t cut it for what you&amp;rsquo;re writing. You&amp;rsquo;re posting a letter on your website and want it to look handwritten, or at least have the signature look handwritten. The &lt;code&gt;handwriting&lt;/code&gt; shortcode provides you with a number of available handwriting fonts to achieve this effect.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -226,10 +226,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Summaries</title>
-      <link>https://shickmo.io/docs/pages/summaries/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/pages/summaries/</link>
       <pubDate>Mon, 26 Jun 2017 23:52:04 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/pages/summaries/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/pages/summaries/</guid>
       <description>&lt;p&gt;Hugo &lt;a href=&#34;https://gohugo.io/content/summaries/&#34;&gt;provides a mechanism&lt;/a&gt; for extracting the first part of a page&amp;rsquo;s content to serve as a &amp;ldquo;summary&amp;rdquo; of the content. This works if the first bit of content serves as a good summary of the rest of the page. Sometimes, though, it doesn&amp;rsquo;t. There&amp;rsquo;s no built-in method for providing your own text as a &amp;ldquo;summary&amp;rdquo; - but there is in BluestNight.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -239,10 +239,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Customize List Pages</title>
-      <link>https://shickmo.io/docs/pages/custom-list-pages/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/pages/custom-list-pages/</link>
       <pubDate>Mon, 26 Jun 2017 23:51:32 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/pages/custom-list-pages/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/pages/custom-list-pages/</guid>
       <description>&lt;p&gt;BluestNight provides a number of ways for you to customize &lt;a href=&#34;https://gohugo.io/templates/list/&#34;&gt;list pages&lt;/a&gt; using &lt;a href=&#34;https://gohugo.io/content/using-index-md/&#34;&gt;&lt;code&gt;_index.md&lt;/code&gt;&lt;/a&gt; files.&lt;/p&gt;
 
 &lt;h1 id=&#34;custom-content&#34;&gt;Custom content&lt;/h1&gt;
@@ -260,10 +260,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Comments</title>
-      <link>https://shickmo.io/docs/pages/comments/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/pages/comments/</link>
       <pubDate>Mon, 26 Jun 2017 23:50:31 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/pages/comments/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/pages/comments/</guid>
       <description>&lt;p&gt;BluestNight currently supports two comment providers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -284,10 +284,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>Authorbox</title>
-      <link>https://shickmo.io/docs/pages/authorbox/</link>
+      <link>https://shickmo.github.io/hugo-site/docs/pages/authorbox/</link>
       <pubDate>Mon, 26 Jun 2017 23:49:34 -0700</pubDate>
       
-      <guid>https://shickmo.io/docs/pages/authorbox/</guid>
+      <guid>https://shickmo.github.io/hugo-site/docs/pages/authorbox/</guid>
       <description>&lt;p&gt;Use the authorbox to provide attribution to the author of a post or page.&lt;/p&gt;
 
 &lt;p&gt;The authorbox feature is based on the &lt;a href=&#34;shortcodes/members&#34;&gt;&lt;code&gt;member&lt;/code&gt; shortcode&lt;/a&gt; and requires the same &lt;a href=&#34;shortcodes/members#setup&#34;&gt;setup&lt;/a&gt; in order to work.&lt;/p&gt;
@@ -301,10 +301,10 @@ If you have any experience writing configuration files for Apache servers or .ht
     
     <item>
       <title>About Hugo</title>
-      <link>https://shickmo.io/about/</link>
+      <link>https://shickmo.github.io/hugo-site/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://shickmo.io/about/</guid>
+      <guid>https://shickmo.github.io/hugo-site/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
