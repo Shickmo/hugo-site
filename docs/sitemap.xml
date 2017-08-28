@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://shickmo.github.io/hugo-site/post/first-post/</loc>
-    <lastmod>2017-08-06T23:22:22-04:00</lastmod>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +18,56 @@
   </url>
   
   <url>
+    <loc>https://shickmo.github.io/hugo-site/categories/cutting-the-cord/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/hulu/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/netgear/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/playstation/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shickmo.github.io/hugo-site/post/</loc>
-    <lastmod>2017-08-06T23:22:22-04:00</lastmod>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/sling/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://shickmo.github.io/hugo-site/tags/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/tv/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shickmo.github.io/hugo-site/tags/vue/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   

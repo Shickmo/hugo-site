@@ -37,8 +37,8 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     accent_text = "#e2e2e2"
 
 [Params.social]
-    twitter = "shickmo7"
-    youtube = "UCaRXarF0L3H6gIPVZszr87w"
+   #twitter = "shickmo7"
+   #youtube = "UCaRXarF0L3H6gIPVZszr87w"
 
 [menu]
   [[menu.main]]
@@ -46,10 +46,33 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     weight = 1
     identifier = "docs"
     url = "#"
-  [[menu.main]]
-    name = "Email"
-    weight = 2
-    url = "mailto:shickmoshow@gmail.com"   
+ #[[menu.main]]
+    #name = "Social"
+    #weight = 1
+   [[menu.main]]
+     name = "Email"
+     weight = 1
+     parent = "social"
+     url = "mailto:shickmoshow@gmail.com"
+   [[menu.main]]
+     name = "Mastodon"
+     weight = 1
+     parent = "social"
+     url = "https://mastodon.technology/@shickmo"
+   [[menu.main]]
+     name = "Twitter"
+     weight = 1
+     parent = "social"
+     url = "https://twitter.com/shickmo7"
+   [[menu.main]]
+     name = "YouTube"
+     weight = 1
+     parent = "social"
+     url = "https://www.youtube.com/channel/UCaRXarF0L3H6gIPVZszr87w" 
+  #[[menu.main]]
+   #name = "Email"
+   #weight = 2
+   #url = "mailto:shickmoshow@gmail.com"   
     #[[menu.main]]
       #name = "Pages"
       #weight = 1
