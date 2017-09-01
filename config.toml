@@ -44,8 +44,8 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
   [[menu.main]]
     name = "Posts"
     weight = 1
-    identifier = "docs"
-    url = "#"
+    identifier = "post"
+    url = "/post/"
  #[[menu.main]]
     #name = "Social"
     #weight = 1
