@@ -36,14 +36,17 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     accent = "#2c8cef"
     accent_text = "#e2e2e2"
 
-[Params.social]
-   #twitter = "shickmo7"
-   #youtube = "UCaRXarF0L3H6gIPVZszr87w"
+[params]
+    youtube = "UCaRXarF0L3H6gIPVZszr87w"
+    twitter = "shickmo7"
+    email = "shickmoshow@gmail.com"
+    mastodon = "shickmo"
+    patreon = "shickmo"
 
 [menu]
   [[menu.main]]
     name = "Posts"
-    weight = 1
+    weight = -120
     identifier = "post"
     url = "/post/"
  #[[menu.main]]
@@ -68,11 +71,11 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
      name = "YouTube"
      weight = 1
      parent = "social"
-     url = "https://www.youtube.com/channel/UCaRXarF0L3H6gIPVZszr87w" 
+     url = "https://www.youtube.com/channel/UCaRXarF0L3H6gIPVZszr87w"
   #[[menu.main]]
    #name = "Email"
    #weight = 2
-   #url = "mailto:shickmoshow@gmail.com"   
+   #url = "mailto:shickmoshow@gmail.com"
     #[[menu.main]]
       #name = "Pages"
       #weight = 1
