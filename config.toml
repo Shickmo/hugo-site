@@ -10,7 +10,7 @@ PygmentsStyle = "monokai"
 enableRobotsTXT = true # Suggested, enable robots.txt file
 
 [outputs]
-    home = ["HTML", "CSS", "JSON", "RSS"]
+    home = ["HTML", "CSS", "RSS"]
 
 [Params]
     tagline = "Feel the open source breeze in the air"
