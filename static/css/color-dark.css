@@ -7,7 +7,7 @@
  * */
 
 body { background: #101010; color: #dbdbdb; }
-a { color: #dbdbdb; }
+a { color: #5294E2; }
 pre { background: #262932; border: 1px solid #5C5C5C; border-radius: 5px; }
 code { background: #262932; }
 blockquote { background: #262932; border-left: 3px solid #5294E2; }
@@ -23,7 +23,7 @@ th { background: #262932; }
 .post .content h5{ color: #5294E2; }
 .post .content h6{ color: #5294E2; }
 .post .content a:hover { color: #5294E2; }
-.social-link:hover { color: #5294E2; }
+.social-link:hover { color: #dbdbdb; }
 .nav-item-title:hover { color: #5294E2; }
 .tag a:hover { color: #5294E2; }
 .copyright { color: #404040; }
