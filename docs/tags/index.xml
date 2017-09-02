@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on shickmo.io</title>
+    <link>https://shickmo.github.io/hugo-site/tags/</link>
+    <description>Recent content in Tags on shickmo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    <lastBuildDate>Mon, 28 Aug 2017 00:35:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://shickmo.github.io/hugo-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hulu</title>
+      <link>https://shickmo.github.io/hugo-site/tags/hulu/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/hulu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netgear</title>
+      <link>https://shickmo.github.io/hugo-site/tags/netgear/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/netgear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playstation</title>
+      <link>https://shickmo.github.io/hugo-site/tags/playstation/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/playstation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sling</title>
+      <link>https://shickmo.github.io/hugo-site/tags/sling/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/sling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv</title>
+      <link>https://shickmo.github.io/hugo-site/tags/tv/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue</title>
+      <link>https://shickmo.github.io/hugo-site/tags/vue/</link>
+      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      
+      <guid>https://shickmo.github.io/hugo-site/tags/vue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
