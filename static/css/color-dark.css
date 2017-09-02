@@ -1,0 +1,36 @@
+
+/*
+ * main original green: #99cc66
+ * main original black: #1D1F21
+ * main blue: #5294E2
+ * main dark gray: #262932
+ * */
+
+body { background: #101010; color: #dbdbdb; }
+a { color: #dbdbdb; }
+pre { background: #262932; border: 1px solid #5C5C5C; border-radius: 5px; }
+code { background: #262932; }
+blockquote { background: #262932; border-left: 3px solid #5294E2; }
+table { margin: 1em auto; border-collapse: collapse; }
+table, th, td { border: 1px solid #5C5C5C; }
+tr:hover { background: #262932; }
+th { background: #262932; }
+.siteTitle a { color: #5294E2; }
+.post .content h1{ color: #5294E2; }
+.post .content h2{ color: #5294E2; }
+.post .content h3{ color: #5294E2; }
+.post .content h4{ color: #5294E2; }
+.post .content h5{ color: #5294E2; }
+.post .content h6{ color: #5294E2; }
+.post .content a:hover { color: #5294E2; }
+.social-link:hover { color: #5294E2; }
+.nav-item-title:hover { color: #5294E2; }
+.tag a:hover { color: #5294E2; }
+.copyright { color: #404040; }
+.poweredby { color: #404040; }
+.poweredby a { color: #404040; }
+.post-preview .title a{ color: #5294E2; }
+.content-item a:hover{ text-decoration: underline; color: #99cc66; }
+.post-list .title { color: #5294E2; }
+.rmore a { color: #5294E2; }
+.terms .term a:hover { text-decoration: underline; color: #99cc66; }
