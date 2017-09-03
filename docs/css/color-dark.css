@@ -2,12 +2,13 @@
 /*
  * main original green: #99cc66
  * main original black: #1D1F21
+ * main original black bacground body: #101010
  * main blue: #5294E2
  * main dark gray: #262932
  * */
 
-body { background: #101010; color: #dbdbdb; }
-a { color: #dbdbdb; }
+body { background: #262932; color: #dbdbdb; }
+a { color: #5294E2; }
 pre { background: #262932; border: 1px solid #5C5C5C; border-radius: 5px; }
 code { background: #262932; }
 blockquote { background: #262932; border-left: 3px solid #5294E2; }
