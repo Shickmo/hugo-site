@@ -24,4 +24,3 @@ languageCode = "en-US"
     weight = -120
     identifier = "post"
     url = "/post/"
-      

@@ -65,6 +65,7 @@ h6 { font-size: .75em;
 
 a:hover, a:active, a:focus {
   outline: 0;
+  text-decoration: underline;
 }
 
 header {
@@ -277,16 +278,20 @@ th, td {
 }
 
 .social-links-footer a {
+  color: #dbdbdb;
   text-decoration: none;
+}
+
+/* The section directly below controls the hover color and text decoration of
+the RSS link in the footer of the site */
+.social-links-footer a:hover {
+  text-decoration: underline;
+  color: #5294E2;
 }
 
 .social-link {
   margin: 0.2em;
   font-size: 1.2em;
-}
-
-.social-link:hover {
-  text-decoration: underline;
 }
 
 .content-list {

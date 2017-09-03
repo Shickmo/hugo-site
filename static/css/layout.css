@@ -244,7 +244,6 @@ th, td {
 
 .poweredby a {
   text-decoration: none;
-  text-decoration: underline;
 }
 
 .err-404 {
@@ -277,12 +276,15 @@ th, td {
   margin-top: 0.5em;
 }
 
+/* This section directly below controls the color of the links in the footer
+when they are not being interacted with. */
 .social-links-footer a {
+  color: #dbdbdb;
   text-decoration: none;
 }
 
 /* The section directly below controls the hover color and text decoration of
-the RSS link in the footer of the site */
+the RSS link in the footer of the site. */
 .social-links-footer a:hover {
   text-decoration: underline;
   color: #5294E2;
