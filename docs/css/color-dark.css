@@ -9,7 +9,7 @@
  * */
 
 body { background: #262932; color: #dbdbdb; }
-a { color: #dbdbdb; }
+a { /*text-decoration: none;*/ color: #dbdbdb; }
 pre { background: #262932; border: 1px solid #5C5C5C; border-radius: 5px; }
 code { background: #262932; }
 blockquote { background: #262932; border-left: 3px solid #dbdbdb; }
