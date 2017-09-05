@@ -3,7 +3,6 @@ themesDir = "themes"
 publishDir = "docs"
 title = "shickmo.io"
 copyright = "Copyright (c) 2017, all rights reserved."
-canonifyurls = true
 paginate = 3
 theme = "hugo-dusk"
 languageCode = "en-US"
