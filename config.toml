@@ -8,18 +8,19 @@ theme = "hugo-dusk"
 languageCode = "en-US"
 
 [author]
-    name = "shickmo"
+  name = "shickmo"
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
 
 [params]
-    youtube = "UCaRXarF0L3H6gIPVZszr87w"
-    twitter = "shickmo7"
-    email = "shickmoshow@gmail.com"
-    mastodon = "shickmo"
-    patreon = "shickmo"
-
-[menu]
-  [[menu.main]]
-    name = "Posts"
-    weight = -120
-    identifier = "post"
-    url = "/post/"
+  youtube = "UCaRXarF0L3H6gIPVZszr87w"
+  twitter = "shickmo7"
+  email = "shickmoshow@gmail.com"
+  mastodon = "shickmo"
+  patreon = "shickmo"
