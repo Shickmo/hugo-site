@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on shickmo.io</title>
-    <link>https://shickmo.github.io/hugo-site/categories/</link>
+    <link>www.shickmo.io/categories/</link>
     <description>Recent content in Categories on shickmo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     
-	<atom:link href="https://shickmo.github.io/hugo-site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.shickmo.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cutting the Cord</title>
-      <link>https://shickmo.github.io/hugo-site/categories/cutting-the-cord/</link>
+      <link>www.shickmo.io/categories/cutting-the-cord/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>https://shickmo.github.io/hugo-site/categories/cutting-the-cord/</guid>
+      <guid>www.shickmo.io/categories/cutting-the-cord/</guid>
       <description></description>
     </item>
     
