@@ -1,4 +1,4 @@
-baseurl = "www.shickmo.io"
+baseurl = "/"
 themesDir = "themes"
 publishDir = "docs"
 title = "shickmo.io"

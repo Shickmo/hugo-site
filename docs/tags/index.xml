@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on shickmo.io</title>
-    <link>www.shickmo.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on shickmo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     <lastBuildDate>Mon, 28 Aug 2017 00:35:06 -0400</lastBuildDate>
     
-	<atom:link href="www.shickmo.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hulu</title>
-      <link>www.shickmo.io/tags/hulu/</link>
+      <link>/tags/hulu/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/hulu/</guid>
+      <guid>/tags/hulu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netgear</title>
-      <link>www.shickmo.io/tags/netgear/</link>
+      <link>/tags/netgear/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/netgear/</guid>
+      <guid>/tags/netgear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Playstation</title>
-      <link>www.shickmo.io/tags/playstation/</link>
+      <link>/tags/playstation/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/playstation/</guid>
+      <guid>/tags/playstation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sling</title>
-      <link>www.shickmo.io/tags/sling/</link>
+      <link>/tags/sling/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/sling/</guid>
+      <guid>/tags/sling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tv</title>
-      <link>www.shickmo.io/tags/tv/</link>
+      <link>/tags/tv/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/tv/</guid>
+      <guid>/tags/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vue</title>
-      <link>www.shickmo.io/tags/vue/</link>
+      <link>/tags/vue/</link>
       <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
       
-      <guid>www.shickmo.io/tags/vue/</guid>
+      <guid>/tags/vue/</guid>
       <description></description>
     </item>
     

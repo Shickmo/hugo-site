@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.shickmo.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.shickmo.io/post/first-post/</loc>
+    <loc>/post/first-post/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>www.shickmo.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/categories/cutting-the-cord/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.shickmo.io/tags/hulu/</loc>
+    <loc>/categories/cutting-the-cord/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/netgear/</loc>
+    <loc>/tags/hulu/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/playstation/</loc>
+    <loc>/tags/netgear/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/post/</loc>
+    <loc>/tags/playstation/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/sling/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/</loc>
+    <loc>/tags/sling/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/tv/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/tags/vue/</loc>
+    <loc>/tags/tv/</loc>
     <lastmod>2017-08-28T00:35:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.shickmo.io/</loc>
+    <loc>/tags/vue/</loc>
+    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
