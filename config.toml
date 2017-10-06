@@ -12,11 +12,24 @@ languageCode = "en-US"
 
 SectionPagesMenu = "main"
 
+
 [[menu.main]]
   name = "Posts"
   weight = -120
   identifier = "post"
   url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tags"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "Categories"
+  weight = -100
+  identifier = "categories"
+  url = "/categories/"
 
 [params]
   youtube = "UCaRXarF0L3H6gIPVZszr87w"
