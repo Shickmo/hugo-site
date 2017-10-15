@@ -8,15 +8,15 @@
  * main dark gray: #262932
  * */
 
-body { background: #262932; color: #dbdbdb; }
+body { background: #2F343F; color: #dbdbdb; }
 a { /*text-decoration: none;*/ color: #dbdbdb; }
-pre { background: #262932; border: 1px solid #5C5C5C; border-radius: 5px; }
-code { background: #262932; }
-blockquote { background: #262932; border-left: 3px solid #dbdbdb; }
+pre { background: #2F343F; border: 1px solid #5C5C5C; border-radius: 5px; }
+code { background: #2F343F; }
+blockquote { background: #2F343F; border-left: 3px solid #dbdbdb; }
 table { margin: 1em auto; border-collapse: collapse; }
 table, th, td { border: 1px solid #5C5C5C; }
-tr:hover { background: #262932; }
-th { background: #262932; }
+tr:hover { background: #2F343F; }
+th { background: #2F343F; }
 .siteTitle a { color: #5294E2; }
 .post .content h1{ color: #5294E2; }
 .post .content h2{ color: #5294E2; }
