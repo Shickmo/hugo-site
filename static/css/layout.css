@@ -278,7 +278,7 @@ th, td {
 /* This section directly below controls the color of the links in the footer
 when they are not being interacted with. */
 .social-links-footer a {
-  color: #dbdbdb;
+  color: #eaeaeb;
   text-decoration: none;
 }
 
