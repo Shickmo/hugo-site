@@ -6,7 +6,7 @@ hide_authorbox = true
 weight = 1
 +++
 
-## Welcome to my Sanctum Sanctorum
+### Welcome to my Sanctum Sanctorum
 
 
 ### Who am I?
