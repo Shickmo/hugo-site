@@ -25,10 +25,10 @@ Solus 3, which is the distro I am running as I write this article, happens to be
 
 * Once the script completes it will tell you to restart vivaldi if it was running and gives you a URL to follow to test that everything worked.
 
-* Bonus step: Here is a link to a [JayzTwoCents](https://youtu.be/rc9y4zaJcXI?list=WL)video that I wanted to watch that wouldn't play before I took the above steps. If this video plays than congratulations h.264 support is yours.
+* Bonus step: Here is a link to a [JayzTwoCents](https://youtu.be/rc9y4zaJcXI?list=WL) video that I wanted to watch that wouldn't play before I took the above steps. If this video plays than congratulations h.264 support is yours.
 
 During my little adventure above I was corresponding on twitter with Josh Strobl who is a core member of the Solus Team, and happens to be their Communications Manager, and he shared some pretty timely and cool insights with me.
 
-Josh mentioned that one of the Solus community members, Joe, is working on finishing chromium. Once that work is completed the Solus Team will break out it's, chromium's that is, ffmpeg into chromium-ffmpeg and make it a run dependency of both vivdaldi-stable and vivaldi-snapshot in Solus's software center. At that point regardless of which version of vivaldi your running stable or snapshot you will get all of the h.264 codec support goodness automagically. 
+Josh mentioned that one of the Solus community members, Joe, is working on finishing chromium. Once that work is completed the Solus Team will break out it's, chromium's that is, ffmpeg into chromium-ffmpeg and make it a run dependency of both vivdaldi-stable and vivaldi-snapshot in Solus's software center. At that point regardless of which version of vivaldi your running stable or snapshot you will get all of the h.264 codec support goodness automagically.
 
 In short Solus and our awesome community is on the case and working towards fixing this problem properly and with style.
