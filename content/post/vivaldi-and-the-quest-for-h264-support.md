@@ -9,7 +9,9 @@ Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian co
 
 I will go into more details about the [Vivaldi browser](vivaldi.com) in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won't be able to watch h.264 based videos on YouTube.
 
-Solus 3, which is the distro I am running as I write this article, happens to be on of the distros that does not have that codec support baked in. Below is a quick dirty hack to get this working for vivaldi-stable, which is available in the Solus 3 software center, and will get things working if you need this support immediately. Also just to clarify thanks to ruario over on github for putting this together and full credit to him on this script I am linking to below. Okay enough talk let's hack some stuff:
+Solus 3, which is the distro I am running as I write this article, happens to be on of the distros that does not have that codec support baked in. Below is a quick dirty hack to get this working for vivaldi-stable, which is available in the Solus 3 software center, and will get things working if you need this support immediately. Also just to clarify thanks to ruario over on github for putting this together and full credit to him on this script I am linking to below.
+
+Okay enough talk let's hack some stuff:
 
 * Navigate to [ruario's github page](https://gist.github.com/ruario/bec42d156d30affef655)
 
