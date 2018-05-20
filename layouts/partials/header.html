@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+{{ partial "head.html" . }}
+
+<body>
+<div class="main">
+<header>
+
+<div class="header-bar">
+
+  <nav>
+    <div class="siteTitle"style="font-size:60%;">
+      <a href="{{ .Site.BaseURL }}"><XMP>
+ ________  ___  ___  ___  ________  ___  __    _____ ______   ________      ___  ________
+|\   ____\|\  \|\  \|\  \|\   ____\|\  \|\  \ |\   _ \  _   \|\   __  \    |\  \|\   __  \
+\ \  \___|\ \  \\\  \ \  \ \  \___|\ \  \/  /|\ \  \\\__\ \  \ \  \|\  \   \ \  \ \  \|\  \
+ \ \_____  \ \   __  \ \  \ \  \    \ \   ___  \ \  \\|__| \  \ \  \\\  \   \ \  \ \  \\\  \
+  \|____|\  \ \  \ \  \ \  \ \  \____\ \  \\ \  \ \  \    \ \  \ \  \\\  \ __\ \  \ \  \\\  \
+    ____\_\  \ \__\ \__\ \__\ \_______\ \__\\ \__\ \__\    \ \__\ \_______\\__\ \__\ \_______\
+   |\_________\|__|\|__|\|__|\|_______|\|__| \|__|\|__|     \|__|\|_______\|__|\|__|\|_______|
+   \|_________|
+</XMP></a>
+    </div> <!--siteTitle-->
+
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}"><div class="nav-item-title">{{ .Name }}</div></a>
+    {{ end }}
+
+  </nav>
+</div>
+
+  {{ partial "social-links.html" . }}
+
+</header>
