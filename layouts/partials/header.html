@@ -20,14 +20,15 @@
     ____\_\  \ \__\ \__\ \__\ \_______\ \__\\ \__\ \__\    \ \__\ \_______\\__\ \__\ \_______\
    |\_________\|__|\|__|\|__|\|_______|\|__| \|__|\|__|     \|__|\|_______\|__|\|__|\|_______|
    \|_________|
-   
+
 </XMP></a>
     </div> <!--siteTitle-->
 
-    {{ $currentPage := . }}
+<!--   {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}"><div class="nav-item-title">{{ .Name }}</div></a>
     {{ end }}
+//-->
 
   </nav>
 </div>

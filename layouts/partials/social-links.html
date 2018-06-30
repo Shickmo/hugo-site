@@ -1,7 +1,23 @@
 
 <div class="social-links-header">
 
-  {{with .Site.Params.email}}
+  {{with .Site.Params.about}}
+  <a href="{{.}}"><div class="social-link">About</div></a>
+  {{end}}
+
+  {{with .Site.Params.posts}}
+  <a href="{{.}}"><div class="social-link">Posts</div></a>
+  {{end}}
+
+  {{with .Site.Params.tags}}
+  <a href="{{.}}/"><div class="social-link">Tags</div></a>
+  {{end}}
+
+  {{with .Site.Params.categories}}
+  <a href="{{.}}"><div class="social-link">Categories</div></a>
+  {{end}}
+
+<!--  {{with .Site.Params.email}}
   <a href="mailto:{{.}}"><div class="social-link">Email</div></a>
   {{end}}
 
@@ -32,5 +48,5 @@
   {{with .Site.Params.patreon}}
   <a href="https://www.patreon.com/{{ . }}" target="_blank"><div class="social-link">Patreon</div></a>
   {{end}}
-
+//-->
 </div>
