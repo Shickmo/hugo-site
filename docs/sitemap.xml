@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/about/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/vivaldi-and-the-quest-for-h264-support/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cut-the-cord-part-deux/</loc>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
   </url>
   
   <url>
@@ -12,67 +23,110 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/browser/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/browsers/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/cutting-the-cord/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/h264/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hacks/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hulu/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/netgear/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/playstation/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scripts/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/sling/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tv/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vivaldi/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/vue/</loc>
-    <lastmod>2017-08-28T00:35:06-04:00</lastmod>
+    <lastmod>2017-11-28T22:12:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+    <loc>/tags/youtube/</loc>
+    <lastmod>2017-11-28T23:17:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="shickmo" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.42.2" />
+
+<link rel="canonical" href="/post/vivaldi-and-the-quest-for-h264-support/">
+<base href="/" />
+<meta property="og:title" content="Vivaldi and the Quest for H264 Support" />
+<meta property="og:description" content="Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.
+I will go into more details about the Vivaldi browser in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&rsquo;t be able to watch h." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/vivaldi-and-the-quest-for-h264-support/" />
+
+
+
+<meta property="article:published_time" content="2017-11-28T23:17:14-05:00"/>
+
+<meta property="article:modified_time" content="2017-11-28T23:17:14-05:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Vivaldi and the Quest for H264 Support"/>
+<meta name="twitter:description" content="Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.
+I will go into more details about the Vivaldi browser in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&rsquo;t be able to watch h."/>
+
+
+
+<meta itemprop="name" content="Vivaldi and the Quest for H264 Support">
+<meta itemprop="description" content="Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.
+I will go into more details about the Vivaldi browser in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&rsquo;t be able to watch h.">
+
+
+<meta itemprop="datePublished" content="2017-11-28T23:17:14-05:00" />
+<meta itemprop="dateModified" content="2017-11-28T23:17:14-05:00" />
+<meta itemprop="wordCount" content="438">
+
+
+
+<meta itemprop="keywords" content="vivaldi,browser,h264,youtube,scripts,hacks," />
+
+
+<link rel="stylesheet" href="css/layout.css" />
+<link rel="stylesheet" href="css/color-dark.css" />
+
+
+
+<title>
+
+
+     Vivaldi and the Quest for H264 Support 
+
+</title>
+
+<script src="js/highlight.min.js"></script>
+<link rel="stylesheet" href="css/tomorrow-night.min.css" />
+<script>hljs.initHighlightingOnLoad();</script>
+
+</head>
+
+
+<body>
+<div class="main">
+<header>
+
+<div class="header-bar">
+
+  <img src="/images/shickmoio.png" alt="shickmo.io">
+
+  <nav>
+    <div class="siteTitle"style="font-size:.5em;">
+      <a href="/"><XMP>
+ ________  ___  ___  ___  ________  ___  __    _____ ______   ________      ___  ________
+|\   ____\|\  \|\  \|\  \|\   ____\|\  \|\  \ |\   _ \  _   \|\   __  \    |\  \|\   __  \
+\ \  \___|\ \  \\\  \ \  \ \  \___|\ \  \/  /|\ \  \\\__\ \  \ \  \|\  \   \ \  \ \  \|\  \
+ \ \_____  \ \   __  \ \  \ \  \    \ \   ___  \ \  \\|__| \  \ \  \\\  \   \ \  \ \  \\\  \
+  \|____|\  \ \  \ \  \ \  \ \  \____\ \  \\ \  \ \  \    \ \  \ \  \\\  \ __\ \  \ \  \\\  \
+    ____\_\  \ \__\ \__\ \__\ \_______\ \__\\ \__\ \__\    \ \__\ \_______\\__\ \__\ \_______\
+   |\_________\|__|\|__|\|__|\|_______|\|__| \|__|\|__|     \|__|\|_______\|__|\|__|\|_______|
+   \|_________|
+
+</XMP></a>
+    </div> 
+
+
+
+  </nav>
+</div>
+
+  
+<div class="social-links-header">
+
+  
+  <a href="/about/"><div class="social-link">About</div></a>
+  
+
+  
+  <a href="/post/"><div class="social-link">Posts</div></a>
+  
+
+  
+  <a href="/tags//"><div class="social-link">Tags</div></a>
+  
+
+  
+  <a href="/categories/"><div class="social-link">Categories</div></a>
+  
+
+
+</div>
+
+
+</header>
+
+
+<article class="post">
+    <h1 class="title"> Vivaldi and the Quest for H264 Support </h1>
+    <div class="content"> <p>Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.</p>
+
+<p>I will go into more details about the <a href="vivaldi.com">Vivaldi browser</a> in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&rsquo;t be able to watch h.264 based videos on YouTube.</p>
+
+<p>Solus 3, which is the distro I am running as I write this article, happens to be on of the distros that does not have that codec support baked in. Below is a quick dirty hack to get this working for vivaldi-stable, which is available in the Solus 3 software center, and will get things working if you need this support immediately. Also just to clarify thanks to ruario over on github for putting this together and full credit to him on this script I am linking to below.</p>
+
+<p>Okay enough talk let&rsquo;s hack some stuff:</p>
+
+<ul>
+<li><p>Navigate to <a href="https://gist.github.com/ruario/bec42d156d30affef655">ruario&rsquo;s github page</a></p></li>
+
+<li><p>Once there and you have reviewed the script click Download ZIP.</p></li>
+
+<li><p>Extract the .zip wherever you like and open a new terminal.</p></li>
+
+<li><p>Navigate from the new terminal to the directory you just extracted the zip to in the last step.</p></li>
+
+<li><p>Now run sudo chmod +x latest-proprietary-media.sh.</p></li>
+
+<li><p>Now that the script is executable run ./latest-proprietary-media.sh.</p></li>
+
+<li><p>Once the script completes it will tell you to restart vivaldi if it was running and gives you a URL to follow to test that everything worked.</p></li>
+
+<li><p>Bonus step: Here is a link to a <a href="https://youtu.be/rc9y4zaJcXI?list=WL">JayzTwoCents</a> video that I wanted to watch that wouldn&rsquo;t play before I took the above steps. If this video plays than congratulations h.264 support is yours.</p></li>
+</ul>
+
+<p>During my little adventure above I was corresponding on twitter with Josh Strobl who is a core member of the Solus Team, and happens to be their Communications Manager, and he shared some pretty timely and cool insights with me.</p>
+
+<p>Josh mentioned that one of the Solus community members, Joe, is working on finishing chromium. Once that work is completed the Solus Team will break out it&rsquo;s, chromium&rsquo;s that is, ffmpeg into chromium-ffmpeg and make it a run dependency of both vivdaldi-stable and vivaldi-snapshot in Solus&rsquo;s software center. At that point regardless of which version of vivaldi your running stable or snapshot you will get all of the h.264 codec support goodness automagically.</p>
+
+<p>In short Solus and our awesome community is on the case and working towards fixing this problem properly and with style.</p>
+ </div>
+    <footer class="post-footer">
+
+  <div class="post-footer-data">
+    
+<div class="tags">
+    
+      <div class="tag">
+        <a href="/tags/vivaldi">#vivaldi</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/browser">#browser</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/h264">#h264</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/youtube">#youtube</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/scripts">#scripts</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/hacks">#hacks</a>
+      </div>
+    
+</div>
+
+    <div class="date"> Nov 28, 2017 </div>
+  </div>
+
+</footer>
+
+
+  
+
+
+
+</article>
+
+  <footer>
+
+  <div class="social-links-footer">
+
+  
+  <a href="mailto:ray@shickmo.io"><div class="social-link">Email</div></a>
+  
+
+  
+
+  
+
+  
+  <a href="https://twitter.com/shickmo7" target="_blank"><div class="social-link">Twitter</div></a>
+  
+
+  
+
+  
+  <a href="https://www.youtube.com/channel/UCaRXarF0L3H6gIPVZszr87w" target="_blank"><div class="social-link">YouTube</div></a>
+  
+
+  
+
+  
+  <a href="https://www.patreon.com/shickmo" target="_blank"><div class="social-link">Patreon</div></a>
+  
+
+  <div class="social-link">
+  <a href="/index.xml" target="_blank">RSS</a>
+  </div>
+
+</div>
+
+
+  <div class="copyright"> Copyright 2017-2018, all rights reserved. </div>
+
+  <div class="poweredby">
+    Powered by open source pandas.
+  </div>
+
+  </footer>
+
+</body>
+</html>
+

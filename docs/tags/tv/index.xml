@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tv on shickmo.io</title>
+    <title>Tv on </title>
     <link>/tags/tv/</link>
-    <description>Recent content in Tv on shickmo.io</description>
+    <description>Recent content in Tv on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 Aug 2017 00:35:06 -0400</lastBuildDate>
+    <copyright>Copyright 2017-2018, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 22:12:04 -0500</lastBuildDate>
     
 	<atom:link href="/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cut the Cord Part Deux</title>
+      <link>/post/cut-the-cord-part-deux/</link>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
+      
+      <guid>/post/cut-the-cord-part-deux/</guid>
+      <description>This is a small addendum to the my original Cutting the cord article. If you haven&amp;rsquo;t read that article pop over there than come on back here. Okay now that we are caught up below are the quick vital links / stats for Sling:
+ Sling TV Plans:  Orange - $20/mo (Stream to one device at a time) Blue - $25/mo (Stream to three devices simultaneously) Orange + Blue - $35/mo (Stream to four devices simultaneously)  Channel Lineup Supported Devices  A question that people keep asking me about my original article is how they can get Hallmark and Hallmark Movies &amp;amp; Mysteries channels if they cut the cord.</description>
+    </item>
     
     <item>
       <title>Cutting The Cord</title>

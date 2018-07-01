@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shickmo.io</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content on shickmo.io</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    <copyright>Copyright 2017-2018, all rights reserved.</copyright>
     <lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,27 @@
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Welcome to my Sanctum Sanctorum Who am I? My name is Ray but I also go by Shickmo. I am beginning a youtube channel, which you can check out by clicking the link below, and this website / blog. This site and youtube channel will focus on technology, Linux (and everything that comes with it, and all things open source. So if you like anything even remotely in the realm of those topics and like to hear about cool open source projects and enjoy learning new things than I have a feeling you might just want to stick around.</description>
+      <description>Welcome to my Sanctum Sanctorum Who am I? My name is Ray but I also go by Shickmo. I am beginning a YouTube channel, which you can check out by clicking the link below, and this website / blog. This site and YouTube channel will focus on technology, Linux (and everything that comes with it, and all things open source. So if you like anything even remotely in the realm of those topics and like to hear about cool open source projects and enjoy learning new things than I have a feeling you might just want to stick around.</description>
+    </item>
+    
+    <item>
+      <title>Vivaldi and the Quest for H264 Support</title>
+      <link>/post/vivaldi-and-the-quest-for-h264-support/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/post/vivaldi-and-the-quest-for-h264-support/</guid>
+      <description>Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.
+I will go into more details about the Vivaldi browser in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&amp;rsquo;t be able to watch h.</description>
+    </item>
+    
+    <item>
+      <title>Cut the Cord Part Deux</title>
+      <link>/post/cut-the-cord-part-deux/</link>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
+      
+      <guid>/post/cut-the-cord-part-deux/</guid>
+      <description>This is a small addendum to the my original Cutting the cord article. If you haven&amp;rsquo;t read that article pop over there than come on back here. Okay now that we are caught up below are the quick vital links / stats for Sling:
+ Sling TV Plans:  Orange - $20/mo (Stream to one device at a time) Blue - $25/mo (Stream to three devices simultaneously) Orange + Blue - $35/mo (Stream to four devices simultaneously)  Channel Lineup Supported Devices  A question that people keep asking me about my original article is how they can get Hallmark and Hallmark Movies &amp;amp; Mysteries channels if they cut the cord.</description>
     </item>
     
     <item>

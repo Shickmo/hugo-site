@@ -1,21 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on shickmo.io</title>
+    <title>Tags on </title>
     <link>/tags/</link>
-    <description>Recent content in Tags on shickmo.io</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 Aug 2017 00:35:06 -0400</lastBuildDate>
+    <copyright>Copyright 2017-2018, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 23:17:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Browser</title>
+      <link>/tags/browser/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H264</title>
+      <link>/tags/h264/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/h264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacks</title>
+      <link>/tags/hacks/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hulu</title>
       <link>/tags/hulu/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/hulu/</guid>
       <description></description>
@@ -24,7 +51,7 @@
     <item>
       <title>Netgear</title>
       <link>/tags/netgear/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/netgear/</guid>
       <description></description>
@@ -33,16 +60,25 @@
     <item>
       <title>Playstation</title>
       <link>/tags/playstation/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/playstation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Scripts</title>
+      <link>/tags/scripts/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sling</title>
       <link>/tags/sling/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/sling/</guid>
       <description></description>
@@ -51,18 +87,36 @@
     <item>
       <title>Tv</title>
       <link>/tags/tv/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/tv/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Vivaldi</title>
+      <link>/tags/vivaldi/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/vivaldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vue</title>
       <link>/tags/vue/</link>
-      <pubDate>Mon, 28 Aug 2017 00:35:06 -0400</pubDate>
+      <pubDate>Tue, 28 Nov 2017 22:12:04 -0500</pubDate>
       
       <guid>/tags/vue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>/tags/youtube/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     

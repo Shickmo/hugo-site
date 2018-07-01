@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H264 on </title>
+    <link>/tags/h264/</link>
+    <description>Recent content in H264 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright 2017-2018, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 23:17:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/h264/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vivaldi and the Quest for H264 Support</title>
+      <link>/post/vivaldi-and-the-quest-for-h264-support/</link>
+      <pubDate>Tue, 28 Nov 2017 23:17:14 -0500</pubDate>
+      
+      <guid>/post/vivaldi-and-the-quest-for-h264-support/</guid>
+      <description>Some say that Antonio Lucio Vivaldi was a pretty bitching Italian Baroque-ian composer, violinist, teacher, and cleric. For the record that is not the Vivaldi we will be discussing today.
+I will go into more details about the Vivaldi browser in a future post but what I want to touch on today is how to setup full media codec support for it. Out of the box when running vivaldi on linux depending on your distro of choice you won&amp;rsquo;t be able to watch h.</description>
+    </item>
+    
+  </channel>
+</rss>
