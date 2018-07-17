@@ -15,7 +15,7 @@ My name is Ray but I also go by Shickmo. I am beginning a YouTube channel, which
 
 ### How to get in touch?
 
-Want to connect with me online? You can drop me a line on twitter, mastodon coming soon, or drop me an email at ray@shickmo.io (or click the email link in the navbar).
+Want to connect with me online? You can drop me a line on twitter or drop me an email at ray@shickmo.io (or click the email link at the bottom of the page).
 
 ### How to get involved?
 
