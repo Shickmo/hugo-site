@@ -1,5 +1,5 @@
 ---
-title: "Linux in a Microsoft World_onedrive"
+title: "Linux in a Microsoft World (OneDrive)"
 date: 2018-07-17T22:47:38-04:00
 tags: ["Linux in a Microsoft World","onedrive","rclone","youtube",]
 categories: ["Linux in a Microsoft World",]
@@ -7,19 +7,19 @@ categories: ["Linux in a Microsoft World",]
 
 Continuing our journey towards and open source workflow in a Microsoft based company we pull up to the intersection of rclone and awesome.
 
-Rclone for those of you not familiar with it is an incredible free tool that is in just about every distro repository I have ever looked through. Rclone can sync local files with an impressive and growing list of services. Fortunately for you and I onedrive, both personal and business accounts, can be synced as well.
+Rclone for those of you not familiar with it is an incredible free tool that is in just about every distro repository I have ever looked through. Rclone can sync local files with an impressive and growing list of services. Fortunately for you and I OneDrive, both personal and business accounts, can be synced as well.
 
 Now if you are afraid of the command line or the mere thought of opening a terminal gives you hives, fear not dear friends as [rclone](rclone.org) has incredibly detailed and easy to follow documentation. As a matter of fact the following screen shots from my presentation on this are directly from [rclone.org](rclone.org) so all credit and the like goes to them of course.
 
 As mentioned in my previous article on setting up [email](/post/linux-in-a-microsoft-world_email) since I am running Solus 3 with the Budgie desktop the below screenshots will reflect that fact.
 
-Here is a [link](https://youtu.be/kEo821R7Sis?t=23m18s) to the video at the time code I began talking about onedrive / rclone specifically on YouTube.
+Here is a [link](https://youtu.be/kEo821R7Sis?t=23m18s) to the video at the time code I began talking about OneDrive / rclone specifically on YouTube.
 
 As usual we begin by opening the software center and searching for rclone.<br /> <br />
 
 ![Rclone in Software Center](/screenshots/linux-in-a-microsoft-world_onedrive/software-center-rclone.png)
 <br /> <br />
-Now that you have clicked on rclone and have it installed lets have a look at the rclone documentation for onedrive with step by step instructions of what to do next.<br /> <br />
+Now that you have clicked on rclone and have it installed lets have a look at the rclone documentation for OneDrive with step by step instructions of what to do next.<br /> <br />
 
 ![Rclone Docs OneDrive 1](/screenshots/linux-in-a-microsoft-world_onedrive/rclone-docs-onedrive-1.png)
 <br /> <br />
