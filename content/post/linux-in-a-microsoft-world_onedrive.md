@@ -9,7 +9,7 @@ Continuing our journey towards and open source workflow in a Microsoft based com
 
 Rclone for those of you not familiar with it is an incredible free tool that is in just about every distro repository I have ever looked through. Rclone can sync local files with an impressive and growing list of services. Fortunately for you and I OneDrive, both personal and business accounts, can be synced as well.
 
-Now if you are afraid of the command line or the mere thought of opening a terminal gives you hives, fear not dear friends as [rclone](rclone.org) has incredibly detailed and easy to follow documentation. As a matter of fact the following screen shots from my presentation on this are directly from [rclone.org](rclone.org) so all credit and the like goes to them of course.
+Now if you are afraid of the command line or the mere thought of opening a terminal gives you hives, fear not dear friends as [rclone](rclone.org) has incredibly detailed and easy to follow documentation. As a matter of fact the following screenshots from my presentation on this are directly from [rclone.org](rclone.org) so all credit and the like goes to them of course.
 
 As mentioned in my previous article on setting up [email](/post/linux-in-a-microsoft-world_email) since I am running Solus 3 with the Budgie desktop the below screenshots will reflect that fact.
 
