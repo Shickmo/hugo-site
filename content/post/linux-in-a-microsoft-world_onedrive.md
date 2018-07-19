@@ -5,7 +5,7 @@ tags: ["Linux in a Microsoft World","onedrive","rclone","youtube",]
 categories: ["Linux in a Microsoft World",]
 ---
 
-Continuing our journey towards and open source workflow in a Microsoft based company we pull up to the intersection of rclone and awesome.
+Continuing our journey towards an open source workflow in a Microsoft based company we pull up to the intersection of rclone and awesome.
 
 Rclone for those of you not familiar with it is an incredible free tool that is in just about every distro repository I have ever looked through. Rclone can sync local files with an impressive and growing list of services. Fortunately for you and I OneDrive, both personal and business accounts, can be synced as well.
 
