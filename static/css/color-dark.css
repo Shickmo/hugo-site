@@ -19,7 +19,7 @@ table { margin: 1em auto; border-collapse: collapse; }
 table, th, td { border: 1px solid #5C5C5C; }
 tr:hover { background: #2F343F; }
 th { background: #2F343F; }
-.siteTitle a { color: #5294E2; }
+.siteTitle a { color: #eaeaeb; }
 .post .content h1{ color: #5294E2; }
 .post .content h2{ color: #5294E2; }
 .post .content h3{ color: #5294E2; }
