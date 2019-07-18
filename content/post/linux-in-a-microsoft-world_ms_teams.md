@@ -15,9 +15,9 @@ If you need to get fancy or change how the this client operates in some way you 
 
 For example if you wanted to say change the chromeUserAgent you could simply create the file in the above location and drop the following into the file:
 
-  {
-  "chromeUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
-  }
+   {
+   "chromeUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+   }
 
 That's it and so effectively the above would make it look like you are accessing MS Teams on a Windows 10 machine from Chrome.
 
